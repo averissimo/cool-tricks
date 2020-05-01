@@ -1,6 +1,12 @@
 # cool-tricks
 Cool tricks to remember
 
+## General settings
+
+See [averissimo/config-files](https://github.com/averissimo/config-files)
+
+This might be a private repository, sorry
+
 ## Use DSLR as webcam
 
 [from stackoverflow](https://askubuntu.com/questions/856460/using-a-digital-camera-canon-as-webcam)
