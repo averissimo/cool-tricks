@@ -1,5 +1,4 @@
-# cool-tricks
-Cool tricks to remember
+> cool tricks to remember
 
 ## General settings
 
