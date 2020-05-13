@@ -3,9 +3,7 @@ Cool tricks to remember
 
 ## General settings
 
-See [averissimo/config-files](https://github.com/averissimo/config-files)
-
-This might be a private repository, sorry
+See [averissimo/config-files](https://github.com/averissimo/linux-config)
 
 ## Use DSLR as webcam
 
