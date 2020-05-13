@@ -30,3 +30,7 @@ gphoto2 --stdout --capture-movie | ffmpeg -i - -vcodec rawvideo -pix_fmt yuv420p
 ```
 
 note: `/dev/video2` might be different *(depending on computer)*, use `v4l2-ctl --list-devices` to see which one is the loopback *(dummy)*
+
+## RStudio links
+
+[Current version](https://rstudio.com/products/rstudio/download/) and [Preview](https://rstudio.com/products/rstudio/download/preview/)
